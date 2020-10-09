@@ -20,7 +20,8 @@
 					"ignoreFailures": true
 				}
 			],
-			"preLaunchTask": "Custom"
+			"preLaunchTask": "Custom",
+			"internalConsoleOptions": "neverOpen"
 		}
 	]
 }
